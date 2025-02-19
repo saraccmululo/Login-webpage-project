@@ -1,2 +1,2 @@
 # login-webpage-project
- creating a responsive login page 
+ Creating a responsive login page with HTML and CSS
